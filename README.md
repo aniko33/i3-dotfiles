@@ -19,7 +19,7 @@ sudo pacman -S picom i3 polybar ttf-jetbrains-mono-nerd ttf-jetbrains-mono fish 
 
 - Icons: [Tela Circle Purple Dark](https://github.com/vinceliuice/Tela-circle-icon-theme)
 - GTK theme: [TokyoNight-Dark-BL](https://www.pling.com/p/1681315/)
-- Curosr: [Volantes Cursors](https://github.com/varlesh/volantes-cursors)
+- Cursor: [Volantes Cursors](https://github.com/varlesh/volantes-cursors)
 
 ## Rofi Fonts
 
